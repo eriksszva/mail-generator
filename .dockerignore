@@ -1,0 +1,15 @@
+# Jangan masukkan direktori virtual environment
+venv/
+
+# Jangan masukkan file dan folder Python yang tidak diperlukan
+__pycache__/
+*.pyc
+*.pyo
+
+# Jangan masukkan file .git dan folder git
+.git/
+.gitignore
+
+# Jangan masukkan file sementara atau cache
+*.log
+*.swp
